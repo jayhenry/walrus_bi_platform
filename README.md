@@ -1,4 +1,4 @@
-pentaho-platform
+walrus_bi_platform is based on the pentaho-platform.
 ================
 
 This set of modules make up Pentaho's core platform and business analytics server.
